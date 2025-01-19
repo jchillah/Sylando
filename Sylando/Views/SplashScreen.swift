@@ -29,13 +29,6 @@ struct SplashScreen: View {
     }
 }
 
-struct ContentView: View {
-    var body: some View {
-        Text("Main Content")
-            .font(.largeTitle)
-            .foregroundColor(.white)
-    }
-}
 
 #Preview {
     SplashScreen()

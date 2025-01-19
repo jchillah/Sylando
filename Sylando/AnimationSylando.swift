@@ -1,5 +1,9 @@
 //
 //  AnimationSylando.swift
+//  Sylando
+//
+//  Created by Michael Winkler on 19.01.25.
+//
 
 import SwiftUI
 
