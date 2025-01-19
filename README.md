@@ -1,1 +1,1 @@
-press on <Code> open with Xcode and enjoy
+press on <>Code Button open with Xcode and enjoy
